@@ -1,1 +1,1 @@
-mcp-fetch: npm start
+mcp-fetch: pnpm start --no-output
