@@ -1,1 +1,1 @@
-mcp-fetch: pnpm start --no-output
+mcp-fetch: pnpm --silent start
