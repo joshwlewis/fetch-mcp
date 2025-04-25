@@ -1,1 +1,1 @@
-mcp-fetch: pnpm --silent start
+mcp-stdio-fetch: pnpm --silent start
